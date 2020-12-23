@@ -1,6 +1,6 @@
 {
   "name": "kc-strrepl",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[js] Replace all in string.",
   "main": "index.js",
   "repository": {
